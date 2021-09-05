@@ -13,3 +13,15 @@
 3. Open with gtkwave tool
 
 * ~$ gtkwave CPUwithInstCache_wavedata.vcd
+
+## Advisor
+> Dr. Isuru Nawinne,
+> Senior Lecturer,
+> Department of Computer Engineering,
+> Faculty of Engineering,
+> University of Peradeniya.
+
+## Links
+> [Department of Computer Engineering Website](http://www.ce.pdn.ac.lk/ "http://www.ce.pdn.ac.lk/")
+
+> [Faculty of Engineering Website](https://eng.pdn.ac.lk/ "https://eng.pdn.ac.lk/")
