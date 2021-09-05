@@ -1,0 +1,96 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Jun 22 23:39:26 2020
+[*]
+[dumpfile] "G:\Pera Eng (Semester 04)\CO224 - Computer Architecture\Online Week 10 - 08 Jun - 12 Jun\Lab_06_Part_03\CPUwithInstCache_wavedata.vcd"
+[dumpfile_mtime] "Mon Jun 22 23:14:58 2020"
+[dumpfile_size] 53083
+[savefile] "G:\Pera Eng (Semester 04)\CO224 - Computer Architecture\Online Week 10 - 08 Jun - 12 Jun\Lab_06_Part_03\e16022_CPUwithInstructionCache_WaveForm.gtkw"
+[timestart] 0
+[size] 1366 705
+[pos] -1 -1
+*-15.312481 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_testbench.
+[treeopen] cpu_testbench.e16022cpu.
+[sst_width] 43
+[signals_width] 190
+[sst_expanded] 0
+[sst_vpaned_height] 190
+@28
+cpu_testbench.CLK
+cpu_testbench.RESET
+@420
+cpu_testbench.PC[31:0]
+@28
+cpu_testbench.INSTRUCTION[31:0]
+cpu_testbench.BUSYWAIT
+@200
+-Reg File
+@28
+cpu_testbench.e16022cpu.myreg_file.INADDRESS[2:0]
+@420
+cpu_testbench.e16022cpu.myreg_file.IN[7:0]
+@28
+cpu_testbench.e16022cpu.myreg_file.OUT1ADDRESS[2:0]
+@420
+cpu_testbench.e16022cpu.myreg_file.OUT1[7:0]
+@28
+cpu_testbench.e16022cpu.myreg_file.OUT2ADDRESS[2:0]
+@420
+cpu_testbench.e16022cpu.myreg_file.OUT2[7:0]
+@200
+-Instruction Cache
+@28
+cpu_testbench.e16022_instcache.state[1:0]
+cpu_testbench.e16022_instcache.address[9:0]
+cpu_testbench.e16022_instcache.VALID
+cpu_testbench.e16022_instcache.HITSIGNAL
+cpu_testbench.e16022_instcache.busywait
+@200
+-Instruction Memory
+@28
+cpu_testbench.e16022_instruction_memory.address[5:0]
+cpu_testbench.e16022_instcache.inst_read
+cpu_testbench.e16022_instcache.inst_busywait
+cpu_testbench.e16022_instcache.inst_readdata[127:0]
+@200
+-Data Cache
+@28
+cpu_testbench.e16022_dcache.state[1:0]
+cpu_testbench.e16022_dcache.address[7:0]
+cpu_testbench.e16022_dcache.DIRTY
+cpu_testbench.e16022_dcache.VALID
+cpu_testbench.e16022_dcache.HITSIGNAL
+cpu_testbench.e16022_dcache.read
+cpu_testbench.e16022_dcache.write
+@29
+cpu_testbench.e16022_dcache.busywait
+@420
+cpu_testbench.e16022cpu.myreg_file.\regset[0][7:0]
+cpu_testbench.e16022cpu.myreg_file.\regset[1][7:0]
+cpu_testbench.e16022cpu.myreg_file.\regset[2][7:0]
+cpu_testbench.e16022cpu.myreg_file.\regset[3][7:0]
+cpu_testbench.e16022cpu.myreg_file.\regset[4][7:0]
+cpu_testbench.e16022cpu.myreg_file.\regset[5][7:0]
+cpu_testbench.e16022cpu.myreg_file.\regset[6][7:0]
+@c00420
+cpu_testbench.e16022cpu.myreg_file.\regset[7][7:0]
+@28
+(0)cpu_testbench.e16022cpu.myreg_file.\regset[7][7:0]
+(1)cpu_testbench.e16022cpu.myreg_file.\regset[7][7:0]
+(2)cpu_testbench.e16022cpu.myreg_file.\regset[7][7:0]
+(3)cpu_testbench.e16022cpu.myreg_file.\regset[7][7:0]
+(4)cpu_testbench.e16022cpu.myreg_file.\regset[7][7:0]
+(5)cpu_testbench.e16022cpu.myreg_file.\regset[7][7:0]
+(6)cpu_testbench.e16022cpu.myreg_file.\regset[7][7:0]
+(7)cpu_testbench.e16022cpu.myreg_file.\regset[7][7:0]
+@1401200
+-group_end
+@200
+-CPU
+@24
+cpu_testbench.e16022cpu.OPCODE[7:0]
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
